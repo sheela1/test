@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1474527794076,42522,Home page,200,OK,Thread Group 1-2,text,true,,20373,2,2,6571,0
+1474527793676,42936,Home page,200,OK,Thread Group 1-1,text,true,,20373,2,2,6767,0
+1474527836586,101962,search,200,OK,Thread Group 1-2,text,true,,73430,2,2,17932,0
+1474527836599,102054,search,200,OK,Thread Group 1-1,text,true,,81830,2,2,17919,0
+1474527938647,20077,search_brand,200,OK,Thread Group 1-1,text,true,,15295,2,2,19976,0
+1474527938543,40397,search_brand,200,OK,Thread Group 1-2,text,true,,23832,2,2,20363,0
+1474527958741,20218,search_brand-color,200,OK,Thread Group 1-1,text,true,,8452,2,2,20121,0
+1474527978943,20709,search_brand-color,200,OK,Thread Group 1-2,text,true,,6180,1,1,20709,0

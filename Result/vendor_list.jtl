@@ -1,0 +1,36 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1474611981857,3823,User Login,200,OK,Number of Users 1-1,text,true,,994,1,1,3823,0
+1474611985689,6931,Set Follow,200,OK,Number of Users 1-1,text,true,,644,1,1,6931,0
+1474611992619,6798,Vendors follow list,200,OK,Number of Users 1-1,text,true,,751,1,1,6798,0
+1474611999415,8311,Vendor List,200,OK,Number of Users 1-1,text,true,,766,1,1,8311,0
+1474612007725,5789,Rating List,200,OK,Number of Users 1-1,text,true,,1904,1,1,5784,0
+1474612013511,6342,Add Rating,200,OK,Number of Users 1-1,text,true,,642,1,1,6342,0
+1474612019820,7008,Remove Follow,200,OK,Number of Users 1-1,text,true,,673,1,1,7008,0
+1474614414758,4407,Login,200,OK,Number of Users 1-1,true,,994,1,1,4407,1,0,TFDesktop-7-PC
+1474614419168,3651,set Follow,200,OK,Number of Users 1-1,true,,644,1,1,3651,1,0,TFDesktop-7-PC
+1474614422820,3352,vendor_offer,200,OK,Number of Users 1-1,true,,2788,1,1,3349,1,0,TFDesktop-7-PC
+1474614426173,3656,Offer List,200,OK,Number of Users 1-1,true,,1202,1,1,3656,1,0,TFDesktop-7-PC
+1474614429825,4239,Claim Offer,200,OK,Number of Users 1-1,true,,647,1,1,4236,1,0,TFDesktop-7-PC
+1474614434065,7344,Claimed Offer,200,OK,Number of Users 1-1,true,,20130,1,1,2643,1,0,TFDesktop-7-PC
+1474614441410,3249,Remove Follow,200,OK,Number of Users 1-1,true,,673,1,1,3249,1,0,TFDesktop-7-PC
+1474614449475,10690,Login,200,OK,Number of Users 1-1,true,,994,1,1,10690,1,0,TFDesktop-7-PC
+1474614460147,3422,set Follow,200,OK,Number of Users 1-1,true,,644,1,1,3422,1,0,TFDesktop-7-PC
+1474614463571,2006,vendor_offer,200,OK,Number of Users 1-1,true,,2788,1,1,2006,1,0,TFDesktop-7-PC
+1474614465569,3003,Offer List,200,OK,Number of Users 1-1,true,,1202,1,1,3000,1,0,TFDesktop-7-PC
+1474614468573,6084,Claim Offer,200,OK,Number of Users 1-1,true,,647,1,1,6084,1,0,TFDesktop-7-PC
+1474614474658,7501,Claimed Offer,200,OK,Number of Users 1-1,true,,20131,1,1,7486,1,0,TFDesktop-7-PC
+1474614482160,1988,Remove Follow,200,OK,Number of Users 1-1,true,,673,1,1,1986,1,0,TFDesktop-7-PC
+1474617191393,1862,Login,200,OK,Number of Users 1-1,true,,994,1,1,1862,1,0,TFDesktop-7-PC
+1474617193256,4895,set Follow,200,OK,Number of Users 1-1,true,,644,1,1,4892,1,0,TFDesktop-7-PC
+1474617198138,728,vendor_offer,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Number of Users 1-1,false,,2748,1,1,0,1,1,TFDesktop-7-PC
+1474621859964,2887,Login,200,OK,Number of Users 1-1,true,,994,1,1,1027,1,0,TFDesktop-7-PC
+1474621862921,1938,set Follow,200,OK,Number of Users 1-1,true,,644,1,1,1936,1,0,TFDesktop-7-PC
+1474621864859,2003,vendor_offer,200,OK,Number of Users 1-1,true,,2788,1,1,2003,1,0,TFDesktop-7-PC
+1474621866858,1491,Offer List,200,OK,Number of Users 1-1,true,,1202,1,1,1489,1,0,TFDesktop-7-PC
+1474621868349,707,Claim Offer,200,OK,Number of Users 1-1,true,,647,1,1,707,1,0,TFDesktop-7-PC
+1474621869057,5805,Claimed Offer,200,OK,Number of Users 1-1,true,,20130,1,1,1894,1,0,TFDesktop-7-PC
+1474621874860,2003,Remove Follow,200,OK,Number of Users 1-1,true,,673,1,1,2003,1,0,TFDesktop-7-PC
+1474867981538,2297,Vendor login,200,OK,Number of Users 1-1,true,,1162,1,1,515,1,0,TFDesktop-7-PC
+1474867983842,2959,Add offer,200,OK,Number of Users 1-1,true,,649,1,1,2959,1,0,TFDesktop-7-PC
+1474867986797,1553,Approve offer,200,OK,Number of Users 1-1,true,,590,1,1,1552,1,0,TFDesktop-7-PC
+1474867988351,1735,List offer,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Number of Users 1-1,false,,2748,1,1,0,1,1,TFDesktop-7-PC

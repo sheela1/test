@@ -1,0 +1,112 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1474617139372,1090,User login ,200,OK,Number of Users 1-1,text,true,,999,1,1,632,0
+1474617140465,1984,Save Delivery address ,200,OK,Number of Users 1-1,text,true,,687,1,1,1982,0
+1474617142450,2877,Get Delivery address ,200,OK,Number of Users 1-1,text,true,,687,1,1,2877,0
+1474617145307,3021,Place order with address ,200,OK,Number of Users 1-1,text,true,,687,1,1,3021,0
+1474625479719,0,Login,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/login,Number of Users 1-1,false,,1178,1,1,0,1,1,TFDesktop-7-PC
+1474625479720,0,set Follow,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/vendor/set_follow,Number of Users 1-1,false,,1185,1,1,0,1,1,TFDesktop-7-PC
+1474625479721,0,vendor_offer,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/vendor_list,Number of Users 1-1,false,,1184,1,1,0,1,1,TFDesktop-7-PC
+1474625479722,0,Offer List,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/vendor_offers,Number of Users 1-1,false,,1186,1,1,0,1,1,TFDesktop-7-PC
+1474625479725,0,Claim Offer,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/claim,Number of Users 1-1,false,,1178,1,1,0,1,1,TFDesktop-7-PC
+1474625479726,0,Claimed Offer,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/claimed_offers,Number of Users 1-1,false,,1187,1,1,0,1,1,TFDesktop-7-PC
+1474625479727,0,Remove Follow,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/vendor/remove_follow,Number of Users 1-1,false,,1188,1,1,0,1,1,TFDesktop-7-PC
+1474625493030,0,Login,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/login,Number of Users 1-1,false,,1178,1,1,0,1,1,TFDesktop-7-PC
+1474625493032,0,set Follow,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/vendor/set_follow,Number of Users 1-1,false,,1185,1,1,0,1,1,TFDesktop-7-PC
+1474625493033,0,vendor_offer,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/vendor_list,Number of Users 1-1,false,,1184,1,1,0,1,1,TFDesktop-7-PC
+1474625493037,0,Offer List,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/vendor_offers,Number of Users 1-1,false,,1186,1,1,0,1,1,TFDesktop-7-PC
+1474625493038,0,Claim Offer,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/claim,Number of Users 1-1,false,,1178,1,1,0,1,1,TFDesktop-7-PC
+1474625493038,0,Claimed Offer,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/user/claimed_offers,Number of Users 1-1,false,,1187,1,1,0,1,1,TFDesktop-7-PC
+1474625493039,0,Remove Follow,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://vvnear.com/qa/]/vendor/remove_follow,Number of Users 1-1,false,,1188,1,1,0,1,1,TFDesktop-7-PC
+1474625518043,3476,Login,200,OK,Number of Users 1-1,true,,994,1,1,3475,1,0,TFDesktop-7-PC
+1474625521513,1593,set Follow,200,OK,Number of Users 1-1,true,,644,1,1,1592,1,0,TFDesktop-7-PC
+1474625523106,1410,vendor_offer,200,OK,Number of Users 1-1,true,,3123,1,1,1409,1,0,TFDesktop-7-PC
+1474625524519,2000,Offer List,200,OK,Number of Users 1-1,true,,1202,1,1,1999,1,0,TFDesktop-7-PC
+1474625526521,1585,Claim Offer,200,OK,Number of Users 1-1,true,,647,1,1,1582,1,0,TFDesktop-7-PC
+1474625528107,2441,Claimed Offer,200,OK,Number of Users 1-1,true,,20131,1,1,2426,1,0,TFDesktop-7-PC
+1474625530547,1001,Remove Follow,200,OK,Number of Users 1-1,true,,673,1,1,1001,1,0,TFDesktop-7-PC
+1474625610994,1010,Login,200,OK,Number of Users 1-1,true,,994,2,2,1008,1,0,TFDesktop-7-PC
+1474625611505,503,Login,200,OK,Number of Users 1-2,true,,994,2,2,496,1,0,TFDesktop-7-PC
+1474625612010,1171,set Follow,200,OK,Number of Users 1-2,true,,644,2,2,1171,1,0,TFDesktop-7-PC
+1474625612005,1176,set Follow,200,OK,Number of Users 1-1,true,,644,2,2,1176,1,0,TFDesktop-7-PC
+1474625613183,2399,vendor_offer,200,OK,Number of Users 1-1,true,,3130,2,2,1047,1,0,TFDesktop-7-PC
+1474625613185,2397,vendor_offer,200,OK,Number of Users 1-2,true,,3130,2,2,1048,1,0,TFDesktop-7-PC
+1474625615579,1042,Offer List,200,OK,Number of Users 1-1,true,,1202,2,2,1042,1,0,TFDesktop-7-PC
+1474625615581,1040,Offer List,200,OK,Number of Users 1-2,true,,1202,2,2,1040,1,0,TFDesktop-7-PC
+1474625616624,1959,Claim Offer,200,OK,Number of Users 1-2,true,,647,2,2,1957,1,0,TFDesktop-7-PC
+1474625616623,1960,Claim Offer,200,OK,Number of Users 1-1,true,,647,2,2,1958,1,0,TFDesktop-7-PC
+1474625618586,2009,Claimed Offer,200,OK,Number of Users 1-2,true,,16031,2,2,1998,1,0,TFDesktop-7-PC
+1474625618584,2013,Claimed Offer,200,OK,Number of Users 1-1,true,,20131,2,2,2000,1,0,TFDesktop-7-PC
+1474625620597,1988,Remove Follow,200,OK,Number of Users 1-1,true,,673,2,2,1986,1,0,TFDesktop-7-PC
+1474625620595,1990,Remove Follow,200,OK,Number of Users 1-2,true,,673,2,2,1988,1,0,TFDesktop-7-PC
+1474625654359,1267,Login,200,OK,Number of Users 1-1,true,,994,2,2,483,1,0,TFDesktop-7-PC
+1474625654861,767,Login,200,OK,Number of Users 1-2,true,,994,2,2,765,1,0,TFDesktop-7-PC
+1474625655629,1985,set Follow,200,OK,Number of Users 1-2,true,,644,2,2,1984,1,0,TFDesktop-7-PC
+1474625655625,1989,set Follow,200,OK,Number of Users 1-1,true,,644,2,2,1988,1,0,TFDesktop-7-PC
+1474625657614,2011,vendor_offer,200,OK,Number of Users 1-2,true,,3123,2,2,2009,1,0,TFDesktop-7-PC
+1474625657616,2011,vendor_offer,200,OK,Number of Users 1-1,true,,3123,2,2,2008,1,0,TFDesktop-7-PC
+1474625659626,1671,Offer List,200,OK,Number of Users 1-2,true,,1202,2,2,1671,1,0,TFDesktop-7-PC
+1474625659628,1669,Offer List,200,OK,Number of Users 1-1,true,,1202,2,2,1669,1,0,TFDesktop-7-PC
+1474625661297,492,Claim Offer,200,OK,Number of Users 1-2,true,,647,2,2,488,1,0,TFDesktop-7-PC
+1474625661296,500,Claim Offer,200,OK,Number of Users 1-1,true,,647,2,2,495,1,0,TFDesktop-7-PC
+1474625661790,762,Claimed Offer,200,OK,Number of Users 1-2,true,,16070,2,2,547,1,0,TFDesktop-7-PC
+1474625661798,768,Claimed Offer,200,OK,Number of Users 1-1,true,,20183,2,2,553,1,0,TFDesktop-7-PC
+1474625662553,486,Remove Follow,200,OK,Number of Users 1-2,true,,673,2,2,482,1,0,TFDesktop-7-PC
+1474625662566,497,Remove Follow,200,OK,Number of Users 1-1,true,,673,1,1,493,1,0,TFDesktop-7-PC
+1474625678918,739,Login,200,OK,Number of Users 1-1,true,,994,2,2,738,1,0,TFDesktop-7-PC
+1474625679419,2208,Login,200,OK,Number of Users 1-2,true,,994,2,2,478,1,0,TFDesktop-7-PC
+1474625679658,1975,set Follow,200,OK,Number of Users 1-1,true,,644,2,2,1973,1,0,TFDesktop-7-PC
+1474625681626,1955,set Follow,200,OK,Number of Users 1-2,true,,644,2,2,1955,1,0,TFDesktop-7-PC
+1474625681631,1953,vendor_offer,200,OK,Number of Users 1-1,true,,3123,2,2,1953,1,0,TFDesktop-7-PC
+1474625683585,2046,Offer List,200,OK,Number of Users 1-1,true,,1202,2,2,2046,1,0,TFDesktop-7-PC
+1474625683582,2051,vendor_offer,200,OK,Number of Users 1-2,true,,3123,2,2,2051,1,0,TFDesktop-7-PC
+1474625685634,2011,Offer List,200,OK,Number of Users 1-2,true,,1202,2,2,2009,1,0,TFDesktop-7-PC
+1474625685632,2013,Claim Offer,200,OK,Number of Users 1-1,true,,647,2,2,2011,1,0,TFDesktop-7-PC
+1474625687645,2125,Claim Offer,200,OK,Number of Users 1-2,true,,647,2,2,2120,1,0,TFDesktop-7-PC
+1474625687647,4944,Claimed Offer,200,OK,Number of Users 1-1,true,,20130,2,2,2123,1,0,TFDesktop-7-PC
+1474625689770,2839,Claimed Offer,200,OK,Number of Users 1-2,true,,16031,2,2,2827,1,0,TFDesktop-7-PC
+1474625692610,3030,Remove Follow,200,OK,Number of Users 1-2,true,,673,2,2,3030,1,0,TFDesktop-7-PC
+1474625692591,3049,Remove Follow,200,OK,Number of Users 1-1,true,,673,2,2,3049,1,0,TFDesktop-7-PC
+1474625705072,2566,Login,200,OK,Number of Users 1-2,true,,994,2,2,2566,1,0,TFDesktop-7-PC
+1474625704582,3065,Login,200,OK,Number of Users 1-1,true,,994,2,2,3065,1,0,TFDesktop-7-PC
+1474625707639,3002,set Follow,200,OK,Number of Users 1-2,true,,644,2,2,3002,1,0,TFDesktop-7-PC
+1474625707647,2997,set Follow,200,OK,Number of Users 1-1,true,,644,2,2,2996,1,0,TFDesktop-7-PC
+1474625710640,2916,vendor_offer,200,OK,Number of Users 1-2,true,,3123,2,2,2916,1,0,TFDesktop-7-PC
+1474625710642,2914,vendor_offer,200,OK,Number of Users 1-1,true,,3123,2,2,2914,1,0,TFDesktop-7-PC
+1474625713557,2084,Offer List,200,OK,Number of Users 1-2,true,,1202,2,2,2084,1,0,TFDesktop-7-PC
+1474625713558,2083,Offer List,200,OK,Number of Users 1-1,true,,1202,2,2,2083,1,0,TFDesktop-7-PC
+1474625715639,3001,Claim Offer,200,OK,Number of Users 1-1,true,,647,2,2,3001,1,0,TFDesktop-7-PC
+1474625715639,3001,Claim Offer,200,OK,Number of Users 1-2,true,,647,2,2,3001,1,0,TFDesktop-7-PC
+1474625718642,2341,Claimed Offer,200,OK,Number of Users 1-2,true,,16038,2,2,1317,1,0,TFDesktop-7-PC
+1474625718649,2342,Claimed Offer,200,OK,Number of Users 1-1,true,,20137,2,2,1310,1,0,TFDesktop-7-PC
+1474625720991,2342,Remove Follow,200,OK,Number of Users 1-1,true,,673,2,2,2342,1,0,TFDesktop-7-PC
+1474625720982,2351,Remove Follow,200,OK,Number of Users 1-2,true,,673,2,2,2351,1,0,TFDesktop-7-PC
+1474883880044,843,Login,200,OK,Number of Users 1-1,true,,994,2,2,842,1,0,TFDesktop-7-PC
+1474883880545,2289,Login,200,OK,Number of Users 1-2,true,,994,2,2,490,1,0,TFDesktop-7-PC
+1474883880889,1952,set Follow,200,OK,Number of Users 1-1,true,,644,2,2,1947,1,0,TFDesktop-7-PC
+1474883882842,1687,vendor_offer,200,OK,Number of Users 1-1,true,,3123,2,2,1686,1,0,TFDesktop-7-PC
+1474883882837,1692,set Follow,200,OK,Number of Users 1-2,true,,644,2,2,1691,1,0,TFDesktop-7-PC
+1474883884536,659,Offer List,200,OK,Number of Users 1-1,true,,1202,2,2,657,1,0,TFDesktop-7-PC
+1474883884531,1742,vendor_offer,200,OK,Number of Users 1-2,true,,3123,2,2,763,1,0,TFDesktop-7-PC
+1474883885193,1078,Claim Offer,200,OK,Number of Users 1-1,true,,647,2,2,1078,1,0,TFDesktop-7-PC
+1474883886268,1745,Offer List,200,OK,Number of Users 1-2,true,,1202,2,2,1743,1,0,TFDesktop-7-PC
+1474883886272,1750,Claimed Offer,200,OK,Number of Users 1-1,true,,19866,2,2,1740,1,0,TFDesktop-7-PC
+1474883888018,1695,Claim Offer,200,OK,Number of Users 1-2,true,,647,2,2,1693,1,0,TFDesktop-7-PC
+1474883888023,1690,Remove Follow,200,OK,Number of Users 1-1,true,,673,2,2,1688,1,0,TFDesktop-7-PC
+1474883889718,2124,Claimed Offer,200,OK,Number of Users 1-2,true,,15269,1,1,549,1,0,TFDesktop-7-PC
+1474883891838,1173,Remove Follow,200,OK,Number of Users 1-2,true,,673,1,1,1171,1,0,TFDesktop-7-PC
+1474887186312,720,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Number of Users 1-1,false,,1838,2,2,697,1,1,TFDesktop-7-PC
+1474887187005,43,Login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Number of Users 1-2,false,,2748,1,1,0,1,1,TFDesktop-7-PC
+1474887189833,2136,Login,200,OK,Number of Users 1-1,true,,994,2,2,492,1,0,TFDesktop-7-PC
+1474887190334,1639,Login,200,OK,Number of Users 1-2,true,,994,2,2,1637,1,0,TFDesktop-7-PC
+1474887191972,1943,set Follow,200,OK,Number of Users 1-2,true,,644,2,2,1942,1,0,TFDesktop-7-PC
+1474887191968,1947,set Follow,200,OK,Number of Users 1-1,true,,644,2,2,1946,1,0,TFDesktop-7-PC
+1474887193917,1416,vendor_offer,200,OK,Number of Users 1-1,true,,3130,2,2,1002,1,0,TFDesktop-7-PC
+1474887193916,1417,vendor_offer,200,OK,Number of Users 1-2,true,,3130,2,2,1021,1,0,TFDesktop-7-PC
+1474887195334,658,Offer List,200,OK,Number of Users 1-2,true,,1202,2,2,656,1,0,TFDesktop-7-PC
+1474887195333,659,Offer List,200,OK,Number of Users 1-1,true,,1202,2,2,657,1,0,TFDesktop-7-PC
+1474887195995,1064,Claim Offer,200,OK,Number of Users 1-1,true,,647,2,2,1062,1,0,TFDesktop-7-PC
+1474887195993,1066,Claim Offer,200,OK,Number of Users 1-2,true,,647,2,2,1064,1,0,TFDesktop-7-PC
+1474887197061,1507,Claimed Offer,200,OK,Number of Users 1-2,true,,15264,2,2,1499,1,0,TFDesktop-7-PC
+1474887197059,1510,Claimed Offer,200,OK,Number of Users 1-1,true,,19866,2,2,1501,1,0,TFDesktop-7-PC
+1474887198569,642,Remove Follow,200,OK,Number of Users 1-2,true,,673,2,2,640,1,0,TFDesktop-7-PC
+1474887198571,640,Remove Follow,200,OK,Number of Users 1-1,true,,673,2,2,638,1,0,TFDesktop-7-PC
